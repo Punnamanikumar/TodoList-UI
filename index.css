@@ -151,8 +151,11 @@
             
             .badd {
                 border-radius: 10px;
-                background-color: rgb(136, 3, 3);
+                background-color: red;
+                height: 26px;
+                width: 63px;
                 zoom: 115%;
+                color: white;
             }
             
             #lk {
